@@ -300,40 +300,37 @@
   "src/utils/egg.ts": [],
   "src/main.ts": [],
   "index.html": [],
-  "assets/app.86609c42.js-unocss-hash.css": [],
+  "assets/app.81dd78ba.js-unocss-hash.css": [],
   "src/pages/about.md": [
-    "/assets/about.beb87f56.js"
-  ],
-  "../../cho1.png": [
-    "/assets/chocolate.35530926.js"
+    "/assets/about.0f3651a7.js"
   ],
   "../../gold.png": [
-    "/assets/chocolate.35530926.js"
+    "/assets/chocolate.3fed7486.js"
   ],
   "src/pages/chocolate.vue": [
-    "/assets/chocolate.35530926.js"
+    "/assets/chocolate.3fed7486.js"
   ],
   "node_modules/naive-ui/es/message/src/use-message.js": [
-    "/assets/use-message.f9dafd0e.js"
+    "/assets/use-message.39b73dc2.js"
   ],
   "node_modules/naive-ui/es/dialog/src/composables.js": [
-    "/assets/other.a29b0d73.js",
+    "/assets/other.4653a8f8.js",
     "/assets/other.e70149f4.css"
   ],
   "../../img/code.jpg": [
-    "/assets/other.a29b0d73.js",
+    "/assets/other.4653a8f8.js",
     "/assets/other.e70149f4.css"
   ],
   "src/pages/other.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/other.a29b0d73.js",
+    "/assets/other.4653a8f8.js",
     "/assets/other.e70149f4.css"
   ],
   "src/pages/other.vue": [
-    "/assets/other.a29b0d73.js",
+    "/assets/other.4653a8f8.js",
     "/assets/other.e70149f4.css"
   ],
   "src/layouts/404.vue": [
-    "/assets/404.c9e75130.js"
+    "/assets/404.f2fce494.js"
   ],
   "node_modules/@vueuse/sound/dist/esm/howler-c6e37a5c.js": [
     "/assets/howler-c6e37a5c.efc1b184.js"
