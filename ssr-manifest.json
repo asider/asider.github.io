@@ -1,62 +1,948 @@
 {
-  "vite/modulepreload-polyfill": [],
-  "node_modules/@intlify/shared/dist/shared.esm-bundler.js": [],
-  "node_modules/@intlify/message-compiler/dist/message-compiler.esm-bundler.js": [],
-  "node_modules/@intlify/devtools-if/dist/devtools-if.esm-bundler.js": [],
-  "node_modules/@intlify/core-base/dist/core-base.esm-bundler.js": [],
-  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
-  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
-  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
-  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
-  "node_modules/vue-i18n/dist/vue-i18n.runtime.esm-bundler.js": [],
-  "src/modules/i18n.ts": [],
-  "\u0000commonjsHelpers.js": [],
-  "\u0000F:/birthday/node_modules/nprogress/nprogress.js?commonjs-module": [],
-  "node_modules/nprogress/nprogress.js": [],
-  "src/modules/nprogress.ts": [],
-  "node_modules/vue-demi/lib/index.mjs": [],
-  "node_modules/pinia/dist/pinia.mjs": [],
-  "src/modules/pinia.ts": [],
-  "vite/preload-helper": [],
-  "src/modules/pwa.ts": [],
-  "node_modules/vue-router/dist/vue-router.mjs": [],
-  "node_modules/@vueuse/head/dist/index.mjs": [],
-  "node_modules/vite-ssg/dist/chunks/state.mjs": [],
-  "node_modules/vite-ssg/dist/chunks/ClientOnly.mjs": [],
-  "node_modules/vite-ssg/dist/index.mjs": [],
-  "src/components/BestWish.vue?vue&type=style&index=0&lang.scss": [],
-  "src/components/BestWish.vue": [],
-  "src/components/BirthdayCake.vue?vue&type=style&index=0&scoped=true&lang.scss": [],
-  "plugin-vue:export-helper": [],
-  "src/components/BirthdayCake.vue": [],
-  "node_modules/@vueuse/sound/dist/esm/index.js": [],
-  "src/utils/bubble.ts": [],
-  "src/pages/index.vue?vue&type=style&index=0&scoped=true&lang.scss": [],
-  "src/pages/index.vue": [],
-  "../@vite-plugin-pages/generated-pages?id=virtual:generated-pages": [],
-  "src/layouts/default.vue": [],
-  "../@vite-plugin-vue-layouts/generated-layouts": [],
-  "src/App.vue": [],
-  "src/styles/vars.scss": [],
-  "src/styles/index.scss": [],
-  "../__uno.css": [],
-  "src/utils/egg.ts": [],
-  "src/main.ts": [],
-  "index.html": [],
-  "assets/app.410cabad.js-unocss-hash.css": [],
-  "../@vite-plugin-pwa/virtual:pwa-register": [
-    "/assets/virtual_pwa-register.c4639629.js"
+  "vite/modulepreload-polyfill": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@intlify/shared/dist/shared.esm-bundler.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@intlify/message-compiler/dist/message-compiler.esm-bundler.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@intlify/devtools-if/dist/devtools-if.esm-bundler.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@intlify/core-base/dist/core-base.esm-bundler.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/vue-i18n/dist/vue-i18n.runtime.esm-bundler.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "src/modules/i18n.ts": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "\u0000commonjsHelpers.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "\u0000D:/hh/xialu_birthday/node_modules/nprogress/nprogress.js?commonjs-module": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/nprogress/nprogress.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "src/modules/nprogress.ts": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/vue-demi/lib/index.mjs": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/pinia/dist/pinia.mjs": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "src/modules/pinia.ts": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/vue-router/dist/vue-router.mjs": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@vueuse/head/dist/index.mjs": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/vite-ssg/dist/chunks/state.mjs": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/vite-ssg/dist/chunks/ClientOnly.mjs": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/vite-ssg/dist/index.mjs": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "vite/preload-helper": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "src/components/BestWish.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "src/components/BestWish.vue": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "src/components/BirthdayCake.vue?vue&type=style&index=0&scoped=true&lang.scss": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "plugin-vue:export-helper": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "src/components/BirthdayCake.vue": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "public/ass.png": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@vueuse/sound/dist/esm/index.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "src/utils/bubble.ts": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "src/pages/index.vue?vue&type=style&index=0&scoped=true&lang.scss": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "src/pages/index.vue": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "../../@vite-plugin-pages/generated-pages?id=virtual:generated-pages": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "src/layouts/default.vue": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "../../@vite-plugin-vue-layouts/generated-layouts": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/seemly/es/dom/get-precise-event-target.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/seemly/es/css/index.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/seemly/es/color/colors.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/seemly/es/color/index.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/seemly/es/misc/index.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_utils/vue/keep.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_utils/vue/omit.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_utils/vue/flatten.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_utils/vue/call.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_utils/vue/keysOf.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_utils/vue/render.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_utils/naive/warn.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_utils/vue/get-first-slot-vnode.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_utils/vue/create-injection-key.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_utils/vue/resolve-slot.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_utils/vue/wrapper.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_utils/css/color-to-class.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/css-render/esm/parse.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/css-render/esm/utils.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/css-render/esm/render.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@emotion/hash/dist/hash.browser.esm.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/css-render/esm/mount.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/css-render/esm/c.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/css-render/esm/CssRender.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/css-render/esm/exists.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@css-render/plugin-bem/esm/index.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_utils/cssr/create-key.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_utils/cssr/index.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_utils/env/is-browser.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_utils/event/index.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/vooks/es/use-false-until-truthy.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/vooks/es/use-memo.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/vooks/es/utils.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/evtd/es/utils.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/evtd/es/traps.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/evtd/es/delegate.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/vooks/es/use-click-position.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/vooks/es/use-clicked.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/vooks/es/life-cycle/use-is-mounted.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/vooks/es/use-is-ios.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/modal/src/interface.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/drawer/src/interface.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/popover/src/interface.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/vueuc/es/shared/v-node.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/vdirs/es/clickoutside.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/vdirs/es/utils.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/vdirs/es/zindexable/z-index-manager.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/vdirs/es/zindexable/index.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@css-render/vue3-ssr/esm/index.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/vueuc/es/shared/warn.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/vueuc/es/shared/resolve-to.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/vueuc/es/lazy-teleport/src/index.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@juggle/resize-observer/lib/utils/resizeObservers.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@juggle/resize-observer/lib/algorithms/hasActiveObservations.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@juggle/resize-observer/lib/algorithms/hasSkippedObservations.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@juggle/resize-observer/lib/algorithms/deliverResizeLoopError.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@juggle/resize-observer/lib/ResizeObserverBoxOptions.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@juggle/resize-observer/lib/utils/freeze.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@juggle/resize-observer/lib/ResizeObserverSize.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@juggle/resize-observer/lib/DOMRectReadOnly.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@juggle/resize-observer/lib/utils/element.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@juggle/resize-observer/lib/utils/global.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@juggle/resize-observer/lib/algorithms/calculateBoxSize.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@juggle/resize-observer/lib/ResizeObserverEntry.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@juggle/resize-observer/lib/algorithms/calculateDepthForNode.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@juggle/resize-observer/lib/algorithms/broadcastActiveObservations.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@juggle/resize-observer/lib/algorithms/gatherActiveObservationsAtDepth.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@juggle/resize-observer/lib/utils/process.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@juggle/resize-observer/lib/utils/queueMicroTask.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@juggle/resize-observer/lib/utils/queueResizeObserver.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@juggle/resize-observer/lib/utils/scheduler.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@juggle/resize-observer/lib/ResizeObservation.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@juggle/resize-observer/lib/ResizeObserverDetail.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@juggle/resize-observer/lib/ResizeObserverController.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/@juggle/resize-observer/lib/ResizeObserver.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/vueuc/es/resize-observer/src/delegate.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/vueuc/es/resize-observer/src/VResizeObserver.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/vueuc/es/focus-trap/src/utils.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/vueuc/es/focus-trap/src/index.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_utils/composable/use-lock-html-scroll.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_utils/composable/use-is-composing.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_utils/composable/use-reactivated.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_mixins/use-form-item.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_freeGlobal.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_root.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_Symbol.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_getRawTag.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_objectToString.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_baseGetTag.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/isObjectLike.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/isSymbol.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_arrayMap.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/isArray.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_baseToString.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/isObject.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/identity.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/isFunction.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_coreJsData.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_isMasked.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_toSource.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_baseIsNative.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_getValue.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_getNative.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_baseCreate.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_apply.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_copyArray.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_shortOut.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/constant.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_defineProperty.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_baseSetToString.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_setToString.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_isIndex.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_baseAssignValue.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/eq.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_assignValue.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_copyObject.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_overRest.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_baseRest.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/isLength.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/isArrayLike.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_isIterateeCall.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_createAssigner.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_isPrototype.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_baseTimes.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_baseIsArguments.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/isArguments.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/stubFalse.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/isBuffer.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_baseIsTypedArray.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_baseUnary.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_nodeUtil.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/isTypedArray.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_arrayLikeKeys.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_overArg.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_nativeKeysIn.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_baseKeysIn.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/keysIn.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_nativeCreate.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_hashClear.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_hashDelete.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_hashGet.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_hashHas.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_hashSet.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_Hash.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_listCacheClear.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_assocIndexOf.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_listCacheDelete.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_listCacheGet.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_listCacheHas.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_listCacheSet.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_ListCache.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_Map.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_mapCacheClear.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_isKeyable.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_getMapData.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_mapCacheDelete.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_mapCacheGet.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_mapCacheHas.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_mapCacheSet.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_MapCache.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/toString.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_getPrototype.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/isPlainObject.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_baseSlice.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_castSlice.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_hasUnicode.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_asciiToArray.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_unicodeToArray.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_stringToArray.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_createCaseFirst.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/upperFirst.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_stackClear.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_stackDelete.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_stackGet.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_stackHas.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_stackSet.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_Stack.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_cloneBuffer.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_Uint8Array.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_cloneArrayBuffer.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_cloneTypedArray.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_initCloneObject.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_createBaseFor.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_baseFor.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_assignMergeValue.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/isArrayLikeObject.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_safeGet.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/toPlainObject.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_baseMergeDeep.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/_baseMerge.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/lodash-es/merge.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_styles/common/_common.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_styles/global/index.cssr.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/config-provider/src/context.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_mixins/common.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_mixins/use-theme.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_mixins/use-config.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_mixins/use-style.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_mixins/use-css-vars-class.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_mixins/use-rtl.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_internal/icons/replaceable.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_internal/icons/Close.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_internal/icons/Error.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_internal/icons/Info.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_internal/icons/Success.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_internal/icons/Warning.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_internal/icon-switch-transition/src/IconSwitchTransition.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_internal/fade-in-expand-transition/src/FadeInExpandTransition.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_internal/icon/src/styles/index.cssr.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_internal/icon/src/Icon.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_internal/close/src/styles/index.cssr.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_internal/close/src/Close.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_styles/transitions/icon-switch.cssr.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_internal/loading/src/styles/index.cssr.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_internal/loading/src/Loading.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_styles/common/light.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_internal/scrollbar/styles/light.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_styles/transitions/fade-in.cssr.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_internal/scrollbar/src/styles/index.cssr.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_internal/scrollbar/src/Scrollbar.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_styles/transitions/fade-in-scale-up.cssr.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_internal/wave/src/styles/index.cssr.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_internal/wave/src/Wave.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_styles/transitions/fade-in-width-expand.cssr.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_styles/transitions/fade-in-height-expand.cssr.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_utils/env/browser.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/_utils/color/index.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/button-group/src/context.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/button/styles/_common.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/button/styles/light.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/button/src/styles/index.cssr.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/button/src/Button.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/card/styles/_common.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/card/styles/light.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/card/src/styles/index.cssr.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/card/src/Card.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/dialog/styles/_common.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/dialog/styles/light.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/dialog/src/dialogProps.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/dialog/src/styles/index.cssr.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/dialog/src/Dialog.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/dialog/src/context.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/modal/styles/light.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/modal/src/presetProps.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/modal/src/BodyWrapper.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/modal/src/styles/index.cssr.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/modal/src/Modal.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/dialog/src/DialogEnvironment.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/dialog/src/DialogProvider.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/message/styles/_common.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/message/styles/light.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/message/src/message-props.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/message/src/context.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/message/src/styles/index.cssr.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/message/src/Message.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/message/src/MessageEnvironment.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "node_modules/naive-ui/es/message/src/MessageProvider.js": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "src/App.vue": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "src/styles/vars.scss": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "src/styles/index.scss": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "../../__uno.css": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "src/utils/egg.ts": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "src/main.ts": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "index.html": [
+    "/assets/ass.1ed6e4d3.png"
+  ],
+  "assets/app.ce1222ce.js-unocss-hash.css": [
+    "/assets/ass.1ed6e4d3.png"
   ],
   "src/pages/about.md": [
-    "/assets/about.9c3a84dd.js"
+    "/assets/about.9ea386d2.js"
+  ],
+  "public/gold.png": [
+    "/assets/chocolate.e66947f1.js",
+    "/assets/gold.a2ec9fb4.png"
+  ],
+  "src/pages/chocolate.vue": [
+    "/assets/chocolate.e66947f1.js",
+    "/assets/gold.a2ec9fb4.png"
+  ],
+  "node_modules/naive-ui/es/message/src/use-message.js": [
+    "/assets/use-message.1ca2c0c3.js"
+  ],
+  "node_modules/naive-ui/es/dialog/src/composables.js": [
+    "/assets/other.f2b067b1.js",
+    "/assets/other.a90b26dd.css",
+    "/assets/code.863d3ff4.jpg"
+  ],
+  "public/img/code.jpg": [
+    "/assets/other.f2b067b1.js",
+    "/assets/other.a90b26dd.css",
+    "/assets/code.863d3ff4.jpg"
+  ],
+  "src/pages/other.vue?vue&type=style&index=0&scoped=true&lang.css": [
+    "/assets/other.f2b067b1.js",
+    "/assets/other.a90b26dd.css",
+    "/assets/code.863d3ff4.jpg"
+  ],
+  "src/pages/other.vue": [
+    "/assets/other.f2b067b1.js",
+    "/assets/other.a90b26dd.css",
+    "/assets/code.863d3ff4.jpg"
   ],
   "src/layouts/404.vue": [
-    "/assets/404.b8fb3807.js"
+    "/assets/404.ad783958.js"
   ],
   "node_modules/@vueuse/sound/dist/esm/howler-c6e37a5c.js": [
     "/assets/howler-c6e37a5c.efc1b184.js"
-  ],
-  "node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
-    "/assets/workbox-window.prod.es5.d2780aeb.js"
   ]
 }
