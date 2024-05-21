@@ -1,20 +1,19 @@
 {
   "vite/modulepreload-polyfill": [],
-  "node_modules/@intlify/shared/dist/shared.esm-bundler.js": [],
-  "node_modules/@intlify/message-compiler/dist/message-compiler.esm-bundler.js": [],
-  "node_modules/@intlify/devtools-if/dist/devtools-if.esm-bundler.js": [],
-  "node_modules/@intlify/core-base/dist/core-base.esm-bundler.js": [],
+  "node_modules/@intlify/shared/dist/shared.mjs": [],
+  "node_modules/@intlify/message-compiler/dist/message-compiler.esm-browser.js": [],
+  "node_modules/@intlify/core-base/dist/core-base.mjs": [],
   "node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
   "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
   "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
   "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
-  "node_modules/vue-i18n/dist/vue-i18n.runtime.esm-bundler.js": [],
+  "node_modules/vue-i18n/dist/vue-i18n.runtime.mjs": [],
   "src/modules/i18n.ts": [],
   "\u0000commonjsHelpers.js": [],
-  "\u0000D:/hh/xialu_birthday/node_modules/nprogress/nprogress.js?commonjs-module": [],
+  "\u0000E:/work/birthday/node_modules/nprogress/nprogress.js?commonjs-module": [],
   "node_modules/nprogress/nprogress.js": [],
   "src/modules/nprogress.ts": [],
-  "node_modules/vue-demi/lib/index.mjs": [],
+  "node_modules/pinia/node_modules/vue-demi/lib/index.mjs": [],
   "node_modules/pinia/dist/pinia.mjs": [],
   "src/modules/pinia.ts": [],
   "node_modules/vue-router/dist/vue-router.mjs": [],
@@ -28,31 +27,27 @@
   "src/components/BirthdayCake.vue?vue&type=style&index=0&scoped=true&lang.scss": [],
   "plugin-vue:export-helper": [],
   "src/components/BirthdayCake.vue": [],
-  "../../ass.png": [],
+  "../../cai.png": [],
   "node_modules/@vueuse/sound/dist/esm/index.js": [],
   "src/utils/bubble.ts": [],
-  "src/pages/index.vue?vue&type=style&index=0&scoped=true&lang.scss": [],
-  "src/pages/index.vue": [],
-  "../../@vite-plugin-pages/generated-pages?id=virtual:generated-pages": [],
-  "src/layouts/default.vue": [],
-  "../../@vite-plugin-vue-layouts/generated-layouts": [],
   "node_modules/seemly/es/dom/get-precise-event-target.js": [],
   "node_modules/seemly/es/css/index.js": [],
   "node_modules/seemly/es/color/colors.js": [],
   "node_modules/seemly/es/color/index.js": [],
   "node_modules/seemly/es/misc/index.js": [],
-  "node_modules/naive-ui/es/_utils/vue/keep.js": [],
-  "node_modules/naive-ui/es/_utils/vue/omit.js": [],
-  "node_modules/naive-ui/es/_utils/vue/flatten.js": [],
-  "node_modules/naive-ui/es/_utils/vue/call.js": [],
-  "node_modules/naive-ui/es/_utils/vue/keysOf.js": [],
-  "node_modules/naive-ui/es/_utils/vue/render.js": [],
-  "node_modules/naive-ui/es/_utils/naive/warn.js": [],
-  "node_modules/naive-ui/es/_utils/vue/get-first-slot-vnode.js": [],
-  "node_modules/naive-ui/es/_utils/vue/create-injection-key.js": [],
-  "node_modules/naive-ui/es/_utils/vue/resolve-slot.js": [],
-  "node_modules/naive-ui/es/_utils/vue/wrapper.js": [],
-  "node_modules/naive-ui/es/_utils/css/color-to-class.js": [],
+  "node_modules/naive-ui/es/_utils/vue/keep.mjs": [],
+  "node_modules/naive-ui/es/_utils/vue/omit.mjs": [],
+  "node_modules/naive-ui/es/_utils/vue/flatten.mjs": [],
+  "node_modules/naive-ui/es/_utils/vue/call.mjs": [],
+  "node_modules/naive-ui/es/_utils/vue/keysOf.mjs": [],
+  "node_modules/naive-ui/es/_utils/vue/render.mjs": [],
+  "node_modules/naive-ui/es/_utils/naive/warn.mjs": [],
+  "node_modules/naive-ui/es/_utils/vue/get-first-slot-vnode.mjs": [],
+  "node_modules/naive-ui/es/_utils/vue/create-injection-key.mjs": [],
+  "node_modules/naive-ui/es/_utils/vue/resolve-slot.mjs": [],
+  "node_modules/naive-ui/es/_utils/vue/wrapper.mjs": [],
+  "node_modules/naive-ui/es/_utils/css/color-to-class.mjs": [],
+  "node_modules/naive-ui/es/_utils/css/rtl-inset.mjs": [],
   "node_modules/css-render/esm/parse.js": [],
   "node_modules/css-render/esm/utils.js": [],
   "node_modules/css-render/esm/render.js": [],
@@ -62,10 +57,9 @@
   "node_modules/css-render/esm/CssRender.js": [],
   "node_modules/css-render/esm/exists.js": [],
   "node_modules/@css-render/plugin-bem/esm/index.js": [],
-  "node_modules/naive-ui/es/_utils/cssr/create-key.js": [],
-  "node_modules/naive-ui/es/_utils/cssr/index.js": [],
-  "node_modules/naive-ui/es/_utils/env/is-browser.js": [],
-  "node_modules/naive-ui/es/_utils/event/index.js": [],
+  "node_modules/naive-ui/es/_utils/cssr/index.mjs": [],
+  "node_modules/naive-ui/es/_utils/env/is-browser.mjs": [],
+  "node_modules/naive-ui/es/_utils/event/index.mjs": [],
   "node_modules/vooks/es/use-false-until-truthy.js": [],
   "node_modules/vooks/es/use-memo.js": [],
   "node_modules/vooks/es/utils.js": [],
@@ -76,9 +70,9 @@
   "node_modules/vooks/es/use-clicked.js": [],
   "node_modules/vooks/es/life-cycle/use-is-mounted.js": [],
   "node_modules/vooks/es/use-is-ios.js": [],
-  "node_modules/naive-ui/es/modal/src/interface.js": [],
-  "node_modules/naive-ui/es/drawer/src/interface.js": [],
-  "node_modules/naive-ui/es/popover/src/interface.js": [],
+  "node_modules/naive-ui/es/modal/src/interface.mjs": [],
+  "node_modules/naive-ui/es/drawer/src/interface.mjs": [],
+  "node_modules/naive-ui/es/popover/src/interface.mjs": [],
   "node_modules/vueuc/es/shared/v-node.js": [],
   "node_modules/vdirs/es/clickoutside.js": [],
   "node_modules/vdirs/es/utils.js": [],
@@ -115,10 +109,10 @@
   "node_modules/vueuc/es/resize-observer/src/VResizeObserver.js": [],
   "node_modules/vueuc/es/focus-trap/src/utils.js": [],
   "node_modules/vueuc/es/focus-trap/src/index.js": [],
-  "node_modules/naive-ui/es/_utils/composable/use-lock-html-scroll.js": [],
-  "node_modules/naive-ui/es/_utils/composable/use-is-composing.js": [],
-  "node_modules/naive-ui/es/_utils/composable/use-reactivated.js": [],
-  "node_modules/naive-ui/es/_mixins/use-form-item.js": [],
+  "node_modules/naive-ui/es/_utils/composable/use-lock-html-scroll.mjs": [],
+  "node_modules/naive-ui/es/_utils/composable/use-is-composing.mjs": [],
+  "node_modules/naive-ui/es/_utils/composable/use-reactivated.mjs": [],
+  "node_modules/naive-ui/es/_mixins/use-form-item.mjs": [],
   "node_modules/lodash-es/_freeGlobal.js": [],
   "node_modules/lodash-es/_root.js": [],
   "node_modules/lodash-es/_Symbol.js": [],
@@ -227,72 +221,79 @@
   "node_modules/lodash-es/_baseMergeDeep.js": [],
   "node_modules/lodash-es/_baseMerge.js": [],
   "node_modules/lodash-es/merge.js": [],
-  "node_modules/naive-ui/es/_styles/common/_common.js": [],
-  "node_modules/naive-ui/es/_styles/global/index.cssr.js": [],
-  "node_modules/naive-ui/es/config-provider/src/context.js": [],
-  "node_modules/naive-ui/es/_mixins/common.js": [],
-  "node_modules/naive-ui/es/_mixins/use-theme.js": [],
-  "node_modules/naive-ui/es/_mixins/use-config.js": [],
-  "node_modules/naive-ui/es/_mixins/use-style.js": [],
-  "node_modules/naive-ui/es/_mixins/use-css-vars-class.js": [],
-  "node_modules/naive-ui/es/_mixins/use-rtl.js": [],
-  "node_modules/naive-ui/es/_internal/icons/replaceable.js": [],
-  "node_modules/naive-ui/es/_internal/icons/Close.js": [],
-  "node_modules/naive-ui/es/_internal/icons/Error.js": [],
-  "node_modules/naive-ui/es/_internal/icons/Info.js": [],
-  "node_modules/naive-ui/es/_internal/icons/Success.js": [],
-  "node_modules/naive-ui/es/_internal/icons/Warning.js": [],
-  "node_modules/naive-ui/es/_internal/icon-switch-transition/src/IconSwitchTransition.js": [],
-  "node_modules/naive-ui/es/_internal/fade-in-expand-transition/src/FadeInExpandTransition.js": [],
-  "node_modules/naive-ui/es/_internal/icon/src/styles/index.cssr.js": [],
-  "node_modules/naive-ui/es/_internal/icon/src/Icon.js": [],
-  "node_modules/naive-ui/es/_internal/close/src/styles/index.cssr.js": [],
-  "node_modules/naive-ui/es/_internal/close/src/Close.js": [],
-  "node_modules/naive-ui/es/_styles/transitions/icon-switch.cssr.js": [],
-  "node_modules/naive-ui/es/_internal/loading/src/styles/index.cssr.js": [],
-  "node_modules/naive-ui/es/_internal/loading/src/Loading.js": [],
-  "node_modules/naive-ui/es/_styles/common/light.js": [],
-  "node_modules/naive-ui/es/_internal/scrollbar/styles/light.js": [],
-  "node_modules/naive-ui/es/_styles/transitions/fade-in.cssr.js": [],
-  "node_modules/naive-ui/es/_internal/scrollbar/src/styles/index.cssr.js": [],
-  "node_modules/naive-ui/es/_internal/scrollbar/src/Scrollbar.js": [],
-  "node_modules/naive-ui/es/_styles/transitions/fade-in-scale-up.cssr.js": [],
-  "node_modules/naive-ui/es/_internal/wave/src/styles/index.cssr.js": [],
-  "node_modules/naive-ui/es/_internal/wave/src/Wave.js": [],
-  "node_modules/naive-ui/es/_styles/transitions/fade-in-width-expand.cssr.js": [],
-  "node_modules/naive-ui/es/_styles/transitions/fade-in-height-expand.cssr.js": [],
-  "node_modules/naive-ui/es/_utils/env/browser.js": [],
-  "node_modules/naive-ui/es/_utils/color/index.js": [],
-  "node_modules/naive-ui/es/button-group/src/context.js": [],
-  "node_modules/naive-ui/es/button/styles/_common.js": [],
-  "node_modules/naive-ui/es/button/styles/light.js": [],
-  "node_modules/naive-ui/es/button/src/styles/index.cssr.js": [],
-  "node_modules/naive-ui/es/button/src/Button.js": [],
-  "node_modules/naive-ui/es/card/styles/_common.js": [],
-  "node_modules/naive-ui/es/card/styles/light.js": [],
-  "node_modules/naive-ui/es/card/src/styles/index.cssr.js": [],
-  "node_modules/naive-ui/es/card/src/Card.js": [],
-  "node_modules/naive-ui/es/dialog/styles/_common.js": [],
-  "node_modules/naive-ui/es/dialog/styles/light.js": [],
-  "node_modules/naive-ui/es/dialog/src/dialogProps.js": [],
-  "node_modules/naive-ui/es/dialog/src/styles/index.cssr.js": [],
-  "node_modules/naive-ui/es/dialog/src/Dialog.js": [],
-  "node_modules/naive-ui/es/dialog/src/context.js": [],
-  "node_modules/naive-ui/es/modal/styles/light.js": [],
-  "node_modules/naive-ui/es/modal/src/presetProps.js": [],
-  "node_modules/naive-ui/es/modal/src/BodyWrapper.js": [],
-  "node_modules/naive-ui/es/modal/src/styles/index.cssr.js": [],
-  "node_modules/naive-ui/es/modal/src/Modal.js": [],
-  "node_modules/naive-ui/es/dialog/src/DialogEnvironment.js": [],
-  "node_modules/naive-ui/es/dialog/src/DialogProvider.js": [],
-  "node_modules/naive-ui/es/message/styles/_common.js": [],
-  "node_modules/naive-ui/es/message/styles/light.js": [],
-  "node_modules/naive-ui/es/message/src/message-props.js": [],
-  "node_modules/naive-ui/es/message/src/context.js": [],
-  "node_modules/naive-ui/es/message/src/styles/index.cssr.js": [],
-  "node_modules/naive-ui/es/message/src/Message.js": [],
-  "node_modules/naive-ui/es/message/src/MessageEnvironment.js": [],
-  "node_modules/naive-ui/es/message/src/MessageProvider.js": [],
+  "node_modules/naive-ui/es/_styles/common/_common.mjs": [],
+  "node_modules/naive-ui/es/_styles/global/index.cssr.mjs": [],
+  "node_modules/naive-ui/es/config-provider/src/context.mjs": [],
+  "node_modules/naive-ui/es/_mixins/common.mjs": [],
+  "node_modules/naive-ui/es/_mixins/use-theme.mjs": [],
+  "node_modules/naive-ui/es/_mixins/use-config.mjs": [],
+  "node_modules/naive-ui/es/_mixins/use-style.mjs": [],
+  "node_modules/naive-ui/es/_mixins/use-css-vars-class.mjs": [],
+  "node_modules/naive-ui/es/_mixins/use-rtl.mjs": [],
+  "node_modules/naive-ui/es/_internal/icons/replaceable.mjs": [],
+  "node_modules/naive-ui/es/_internal/icons/Close.mjs": [],
+  "node_modules/naive-ui/es/_internal/icons/Error.mjs": [],
+  "node_modules/naive-ui/es/_internal/icons/Info.mjs": [],
+  "node_modules/naive-ui/es/_internal/icons/Success.mjs": [],
+  "node_modules/naive-ui/es/_internal/icons/Warning.mjs": [],
+  "node_modules/naive-ui/es/_internal/icon-switch-transition/src/IconSwitchTransition.mjs": [],
+  "node_modules/naive-ui/es/_internal/fade-in-expand-transition/src/FadeInExpandTransition.mjs": [],
+  "node_modules/naive-ui/es/_internal/icon/src/styles/index.cssr.mjs": [],
+  "node_modules/naive-ui/es/_internal/icon/src/Icon.mjs": [],
+  "node_modules/naive-ui/es/_internal/close/src/styles/index.cssr.mjs": [],
+  "node_modules/naive-ui/es/_internal/close/src/Close.mjs": [],
+  "node_modules/naive-ui/es/_styles/transitions/icon-switch.cssr.mjs": [],
+  "node_modules/naive-ui/es/_internal/loading/src/styles/index.cssr.mjs": [],
+  "node_modules/naive-ui/es/_internal/loading/src/Loading.mjs": [],
+  "node_modules/naive-ui/es/_styles/common/light.mjs": [],
+  "node_modules/naive-ui/es/_internal/scrollbar/styles/common.mjs": [],
+  "node_modules/naive-ui/es/_internal/scrollbar/styles/light.mjs": [],
+  "node_modules/naive-ui/es/_styles/transitions/fade-in.cssr.mjs": [],
+  "node_modules/naive-ui/es/_internal/scrollbar/src/styles/index.cssr.mjs": [],
+  "node_modules/naive-ui/es/_internal/scrollbar/src/Scrollbar.mjs": [],
+  "node_modules/naive-ui/es/_styles/transitions/fade-in-scale-up.cssr.mjs": [],
+  "node_modules/naive-ui/es/_internal/wave/src/styles/index.cssr.mjs": [],
+  "node_modules/naive-ui/es/_internal/wave/src/Wave.mjs": [],
+  "node_modules/naive-ui/es/_styles/transitions/fade-in-width-expand.cssr.mjs": [],
+  "node_modules/naive-ui/es/_styles/transitions/fade-in-height-expand.cssr.mjs": [],
+  "node_modules/naive-ui/es/_utils/env/browser.mjs": [],
+  "node_modules/naive-ui/es/_utils/color/index.mjs": [],
+  "node_modules/naive-ui/es/button-group/src/context.mjs": [],
+  "node_modules/naive-ui/es/button/styles/_common.mjs": [],
+  "node_modules/naive-ui/es/button/styles/light.mjs": [],
+  "node_modules/naive-ui/es/button/src/styles/index.cssr.mjs": [],
+  "node_modules/naive-ui/es/button/src/Button.mjs": [],
+  "node_modules/naive-ui/es/card/styles/_common.mjs": [],
+  "node_modules/naive-ui/es/card/styles/light.mjs": [],
+  "node_modules/naive-ui/es/card/src/styles/index.cssr.mjs": [],
+  "node_modules/naive-ui/es/card/src/Card.mjs": [],
+  "node_modules/naive-ui/es/dialog/styles/_common.mjs": [],
+  "node_modules/naive-ui/es/dialog/styles/light.mjs": [],
+  "node_modules/naive-ui/es/dialog/src/dialogProps.mjs": [],
+  "node_modules/naive-ui/es/dialog/src/styles/index.cssr.mjs": [],
+  "node_modules/naive-ui/es/dialog/src/Dialog.mjs": [],
+  "node_modules/naive-ui/es/dialog/src/context.mjs": [],
+  "node_modules/naive-ui/es/modal/styles/light.mjs": [],
+  "node_modules/naive-ui/es/modal/src/presetProps.mjs": [],
+  "node_modules/naive-ui/es/modal/src/BodyWrapper.mjs": [],
+  "node_modules/naive-ui/es/modal/src/styles/index.cssr.mjs": [],
+  "node_modules/naive-ui/es/modal/src/Modal.mjs": [],
+  "node_modules/naive-ui/es/dialog/src/DialogEnvironment.mjs": [],
+  "node_modules/naive-ui/es/dialog/src/DialogProvider.mjs": [],
+  "node_modules/naive-ui/es/message/styles/_common.mjs": [],
+  "node_modules/naive-ui/es/message/styles/light.mjs": [],
+  "node_modules/naive-ui/es/message/src/message-props.mjs": [],
+  "node_modules/naive-ui/es/message/src/context.mjs": [],
+  "node_modules/naive-ui/es/message/src/styles/index.cssr.mjs": [],
+  "node_modules/naive-ui/es/message/src/Message.mjs": [],
+  "node_modules/naive-ui/es/message/src/MessageEnvironment.mjs": [],
+  "node_modules/naive-ui/es/message/src/MessageProvider.mjs": [],
+  "node_modules/naive-ui/es/message/src/use-message.mjs": [],
+  "src/pages/index.vue?vue&type=style&index=0&scoped=true&lang.scss": [],
+  "src/pages/index.vue": [],
+  "../../@vite-plugin-pages/generated-pages?id=virtual:generated-pages": [],
+  "src/layouts/default.vue": [],
+  "../../@vite-plugin-vue-layouts/generated-layouts": [],
   "src/App.vue": [],
   "src/styles/vars.scss": [],
   "src/styles/index.scss": [],
@@ -300,37 +301,182 @@
   "src/utils/egg.ts": [],
   "src/main.ts": [],
   "index.html": [],
-  "assets/app.81dd78ba.js-unocss-hash.css": [],
+  "assets/app.f95a1081.js-unocss-hash.css": [],
   "src/pages/about.md": [
-    "/assets/about.0f3651a7.js"
+    "/assets/about.2faac39b.js"
   ],
-  "../../gold.png": [
-    "/assets/chocolate.3fed7486.js"
+  "node_modules/naive-ui/es/_utils/css/format-length.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/_utils/composable/use-collection.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/vooks/es/use-merged-state.js": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/lodash-es/_isKey.js": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/lodash-es/memoize.js": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/lodash-es/_memoizeCapped.js": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/lodash-es/_stringToPath.js": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/lodash-es/_castPath.js": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/lodash-es/_toKey.js": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/lodash-es/_baseGet.js": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/lodash-es/get.js": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/locales/common/enUS.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/date-fns/esm/locale/_lib/buildFormatLongFn/index.js": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/date-fns/esm/locale/_lib/buildLocalizeFn/index.js": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/date-fns/esm/locale/_lib/buildMatchFn/index.js": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/date-fns/esm/locale/_lib/buildMatchPatternFn/index.js": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/date-fns/esm/locale/en-US/_lib/formatDistance/index.js": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/date-fns/esm/locale/en-US/_lib/formatLong/index.js": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/date-fns/esm/locale/en-US/_lib/formatRelative/index.js": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/date-fns/esm/locale/en-US/_lib/localize/index.js": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/date-fns/esm/locale/en-US/_lib/match/index.js": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/date-fns/esm/locale/en-US/index.js": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/locales/date/enUS.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/_mixins/use-locale.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/_internal/icons/Eye.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/_internal/icons/EyeOff.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/_internal/icons/ChevronDown.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/_internal/icons/Clear.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/_internal/clear/src/styles/index.cssr.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/_internal/clear/src/Clear.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/_internal/suffix/src/Suffix.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/input/styles/_common.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/input/styles/light.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/input/src/interface.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/input/src/utils.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/input/src/WordCount.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/input/src/styles/input.cssr.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/input/src/Input.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/form/styles/_common.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/form/styles/light.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/form/src/styles/form.cssr.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/form/src/context.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/form/src/Form.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/async-validator/dist-web/index.js": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/form/src/utils.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/_styles/transitions/fade-down.cssr.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/form/src/styles/form-item.cssr.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "node_modules/naive-ui/es/form/src/FormItem.mjs": [
+    "/assets/chocolate.96a00367.js"
+  ],
+  "../../dog.png": [
+    "/assets/chocolate.96a00367.js"
   ],
   "src/pages/chocolate.vue": [
-    "/assets/chocolate.3fed7486.js"
+    "/assets/chocolate.96a00367.js"
   ],
-  "node_modules/naive-ui/es/message/src/use-message.js": [
-    "/assets/use-message.39b73dc2.js"
+  "node_modules/naive-ui/es/dialog/src/composables.mjs": [
+    "/assets/other.ec596718.js",
+    "/assets/other.c1480235.css"
   ],
-  "node_modules/naive-ui/es/dialog/src/composables.js": [
-    "/assets/other.4653a8f8.js",
-    "/assets/other.e70149f4.css"
+  "../../dog2.png": [
+    "/assets/other.ec596718.js",
+    "/assets/other.c1480235.css"
   ],
   "../../img/code.jpg": [
-    "/assets/other.4653a8f8.js",
-    "/assets/other.e70149f4.css"
+    "/assets/other.ec596718.js",
+    "/assets/other.c1480235.css"
   ],
   "src/pages/other.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/other.4653a8f8.js",
-    "/assets/other.e70149f4.css"
+    "/assets/other.ec596718.js",
+    "/assets/other.c1480235.css"
   ],
   "src/pages/other.vue": [
-    "/assets/other.4653a8f8.js",
-    "/assets/other.e70149f4.css"
+    "/assets/other.ec596718.js",
+    "/assets/other.c1480235.css"
   ],
   "src/layouts/404.vue": [
-    "/assets/404.f2fce494.js"
+    "/assets/404.b3c70f3d.js"
   ],
   "node_modules/@vueuse/sound/dist/esm/howler-c6e37a5c.js": [
     "/assets/howler-c6e37a5c.efc1b184.js"
