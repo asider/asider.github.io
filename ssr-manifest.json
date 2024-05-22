@@ -301,182 +301,182 @@
   "src/utils/egg.ts": [],
   "src/main.ts": [],
   "index.html": [],
-  "assets/app.f95a1081.js-unocss-hash.css": [],
+  "assets/app.f68a8d78.js-unocss-hash.css": [],
   "src/pages/about.md": [
-    "/assets/about.2faac39b.js"
+    "/assets/about.44bb678e.js"
   ],
   "node_modules/naive-ui/es/_utils/css/format-length.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/_utils/composable/use-collection.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/vooks/es/use-merged-state.js": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/lodash-es/_isKey.js": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/lodash-es/memoize.js": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/lodash-es/_memoizeCapped.js": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/lodash-es/_stringToPath.js": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/lodash-es/_castPath.js": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/lodash-es/_toKey.js": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/lodash-es/_baseGet.js": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/lodash-es/get.js": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/locales/common/enUS.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/date-fns/esm/locale/_lib/buildFormatLongFn/index.js": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/date-fns/esm/locale/_lib/buildLocalizeFn/index.js": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/date-fns/esm/locale/_lib/buildMatchFn/index.js": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/date-fns/esm/locale/_lib/buildMatchPatternFn/index.js": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/date-fns/esm/locale/en-US/_lib/formatDistance/index.js": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/date-fns/esm/locale/en-US/_lib/formatLong/index.js": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/date-fns/esm/locale/en-US/_lib/formatRelative/index.js": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/date-fns/esm/locale/en-US/_lib/localize/index.js": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/date-fns/esm/locale/en-US/_lib/match/index.js": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/date-fns/esm/locale/en-US/index.js": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/locales/date/enUS.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/_mixins/use-locale.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/_internal/icons/Eye.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/_internal/icons/EyeOff.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/_internal/icons/ChevronDown.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/_internal/icons/Clear.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/_internal/clear/src/styles/index.cssr.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/_internal/clear/src/Clear.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/_internal/suffix/src/Suffix.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/input/styles/_common.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/input/styles/light.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/input/src/interface.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/input/src/utils.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/input/src/WordCount.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/input/src/styles/input.cssr.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/input/src/Input.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/form/styles/_common.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/form/styles/light.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/form/src/styles/form.cssr.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/form/src/context.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/form/src/Form.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/async-validator/dist-web/index.js": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/form/src/utils.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/_styles/transitions/fade-down.cssr.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/form/src/styles/form-item.cssr.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/form/src/FormItem.mjs": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "../../dog.png": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "src/pages/chocolate.vue": [
-    "/assets/chocolate.96a00367.js"
+    "/assets/chocolate.b248e5ec.js"
   ],
   "node_modules/naive-ui/es/dialog/src/composables.mjs": [
-    "/assets/other.ec596718.js",
-    "/assets/other.c1480235.css"
+    "/assets/other.1c490b7d.js",
+    "/assets/other.95f869b5.css"
   ],
   "../../dog2.png": [
-    "/assets/other.ec596718.js",
-    "/assets/other.c1480235.css"
+    "/assets/other.1c490b7d.js",
+    "/assets/other.95f869b5.css"
   ],
-  "../../img/code.jpg": [
-    "/assets/other.ec596718.js",
-    "/assets/other.c1480235.css"
+  "../../img/code.png": [
+    "/assets/other.1c490b7d.js",
+    "/assets/other.95f869b5.css"
   ],
   "src/pages/other.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/other.ec596718.js",
-    "/assets/other.c1480235.css"
+    "/assets/other.1c490b7d.js",
+    "/assets/other.95f869b5.css"
   ],
   "src/pages/other.vue": [
-    "/assets/other.ec596718.js",
-    "/assets/other.c1480235.css"
+    "/assets/other.1c490b7d.js",
+    "/assets/other.95f869b5.css"
   ],
   "src/layouts/404.vue": [
-    "/assets/404.b3c70f3d.js"
+    "/assets/404.4f2905d7.js"
   ],
   "node_modules/@vueuse/sound/dist/esm/howler-c6e37a5c.js": [
     "/assets/howler-c6e37a5c.efc1b184.js"
